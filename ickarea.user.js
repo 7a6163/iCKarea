@@ -7,5 +7,5 @@
 // @version     1.1
 // ==/UserScript==
 
-document.getElenentById("pushGood").style.display="none";
-document.getElenentById("realContent").style.display="";
+document.getElementById("pushGood").style.display="none";
+document.getElementById("realContent").style.display="";
